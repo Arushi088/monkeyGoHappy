@@ -94,8 +94,8 @@ function draw() {
     gameover.visible = true;
 
     stroke("black");
-    textSize(20);
-    fill("black");
+    textSize(25);
+    fill("red");
     text("GameOver : " + gameover, 180, 200);
 
 
